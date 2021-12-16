@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T15:14:50.539Z" agent="5.0 (X11)" etag="HQG_iyA--hJ0BEM_TYsN" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T17:47:18.422Z" agent="5.0 (X11)" etag="g-dir5moDOymcDsShnGD" version="15.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1030" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,32 +7,118 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="student zakłada konto" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="-590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kXzvup9dMq2idnFVMVO1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="kXzvup9dMq2idnFVMVO1-5">
+        <mxCell id="kXzvup9dMq2idnFVMVO1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="kXzvup9dMq2idnFVMVO1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kXzvup9dMq2idnFVMVO1-5" value="&lt;div&gt;sprawdzenie poprawności danych,&lt;/div&gt;&lt;div&gt;zapis do db&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kXzvup9dMq2idnFVMVO1-5" value="&lt;div&gt;sprawdzenie poprawności danych,&lt;/div&gt;&lt;div&gt;zapis do db&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="-520" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kXzvup9dMq2idnFVMVO1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXzvup9dMq2idnFVMVO1-6" target="kXzvup9dMq2idnFVMVO1-8">
+        <mxCell id="kXzvup9dMq2idnFVMVO1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXzvup9dMq2idnFVMVO1-6" target="kXzvup9dMq2idnFVMVO1-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kXzvup9dMq2idnFVMVO1-6" value="wybór kierunku studiów" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kXzvup9dMq2idnFVMVO1-6" value="wybór kierunku studiów" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kXzvup9dMq2idnFVMVO1-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXzvup9dMq2idnFVMVO1-5" target="kXzvup9dMq2idnFVMVO1-6">
+        <mxCell id="kXzvup9dMq2idnFVMVO1-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXzvup9dMq2idnFVMVO1-5" target="kXzvup9dMq2idnFVMVO1-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="-320" as="sourcePoint" />
             <mxPoint x="440" y="-370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kXzvup9dMq2idnFVMVO1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXzvup9dMq2idnFVMVO1-8" target="kXzvup9dMq2idnFVMVO1-10">
+        <mxCell id="kXzvup9dMq2idnFVMVO1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXzvup9dMq2idnFVMVO1-8" target="kXzvup9dMq2idnFVMVO1-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kXzvup9dMq2idnFVMVO1-8" value="&lt;br&gt;zapis do db wybranego kierunku(-ów), naliczenie wysokości opłaty za rekrutacje, zapis do bazy danych wymaganej kwoty/kwot przy wyborzewielu kierunków, ustawienie statusu kwoty/kwot do zapłaty jakooczekujące" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="-330" width="220" height="110" as="geometry" />
+        <mxCell id="kXzvup9dMq2idnFVMVO1-8" value="&lt;br&gt;zapis do db wybranego kierunku(-ów), naliczenie wysokości opłaty za rekrutacje, zapis do bazy danych wymaganej kwoty/kwot przy wyborzewielu kierunków, ustawienie statusu kwoty/kwot do zapłaty jakooczekujące" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="-340" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="kXzvup9dMq2idnFVMVO1-10" value="wygenerowanie dla przyszłego studenta danych do opłatyrekrutacyjnej(pobranie informacji z db o nieuregulowanych opłatach, oraz formularza aplikacyjnego np. z kodem qr uzupełnionego danymi&lt;br/&gt;podawanymi przy rejestracji konta oraz kodu qr do naklejenia na&lt;br/&gt;kopertę&lt;br/&gt;&lt;br/&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="-200" width="200" height="170" as="geometry" />
+        <mxCell id="rJLKmksMfXtSssTEuBwt-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXzvup9dMq2idnFVMVO1-10" target="rJLKmksMfXtSssTEuBwt-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kXzvup9dMq2idnFVMVO1-10" value="wygenerowanie dla przyszłego studenta danych do opłaty rekrutacyjnej(pobranie informacji z db o nieuregulowanych opłatach), listy wymaganych dokumentów w zależności od wybranego&lt;br&gt;kierunku(pobranie z db informacji jaki kierunek wymaga jakich&lt;br&gt;dokumentów) oraz formularza aplikacyjnego np. z kodem qr uzupełnionego danymi&lt;br&gt;podawanymi przy rejestracji konta oraz kodu qr do naklejenia na&lt;br&gt;kopertę" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="-200" width="640" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rJLKmksMfXtSssTEuBwt-0" target="rJLKmksMfXtSssTEuBwt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rJLKmksMfXtSssTEuBwt-0" target="rJLKmksMfXtSssTEuBwt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-0" value="student wycofuje swoja aplikację" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="302.5" y="22.5" width="195" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-2" value="oznaczenie w db aplikacji jako anulowane, oznaczenie w db kwoty/kwot jako anulowane w przypadku oczekujących i oznaczenie w db kwot do zwrotu w przypadku opłaconych jeśli rekrutacja nie została jeszcze przeprowadzona, usunięcie studenta z listy jeśli proces rekrutacji już się zakończył&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="56.25" width="270" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-5" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-8" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rJLKmksMfXtSssTEuBwt-10" target="rJLKmksMfXtSssTEuBwt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-10" value="wysłanie dokumentów pocztą lub dostarczenie osobiście" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="342.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rJLKmksMfXtSssTEuBwt-21" target="rJLKmksMfXtSssTEuBwt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-14" value="przyjęcie aplikacji przez pracownika (skan kodu qr z koperty i zapis do db informacji o przyjęciu zgłoszenia)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="482.5" width="170" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rJLKmksMfXtSssTEuBwt-16" target="rJLKmksMfXtSssTEuBwt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rJLKmksMfXtSssTEuBwt-16" target="rJLKmksMfXtSssTEuBwt-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-16" value="czy aplikacja została opłacona" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="810" width="150" height="121.25" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-18" value="w przypadku aplikacji oczekującej na opłatę pracownik odkładakopertę z aplikacją na stos oczekujących( w przypadku opłaceniaaplikacji program powiadamia pracownika o zmianie statusu aplikacji)&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="555" y="820.9399999999999" width="220" height="99.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-20" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rJLKmksMfXtSssTEuBwt-21" target="rJLKmksMfXtSssTEuBwt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-21" value="czy aplikacja została anulowana" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="620" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rJLKmksMfXtSssTEuBwt-14" target="rJLKmksMfXtSssTEuBwt-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="770" as="sourcePoint" />
+            <mxPoint x="440" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-26" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-27" value="w przypadku aplikacji anulowanej pracownik otrzymuje informacje o anulowaniu aplikacji odkłada kopertę na stos kopert do odebrania przez studentów(zapis do bazy danych jako koperta czekajaca na odbiór)&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="555" y="642.5" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-29" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="475" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rJLKmksMfXtSssTEuBwt-30" target="rJLKmksMfXtSssTEuBwt-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1272.1950000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-30" value="czy aplikacja zawiera komplet dokumentów" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1010.0000000000001" width="160" height="148.13" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-32" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-35" value="w przypadku kompletności dokumentów pracownik skanuje dokumenty(skan dokumentów wraz z pobraniem ze skanów odpowiednich danych i zapisanie wszystkiego w db)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="1210" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLKmksMfXtSssTEuBwt-36" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
